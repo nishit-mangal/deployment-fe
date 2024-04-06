@@ -1,5 +1,5 @@
 import axios from "axios";
-let url = "http://13.233.53.159:8000/visited"
+let url = "//13.233.53.159:8000/visited"
 // let url = "http://localhost:8000/visited";
 
 export async function callApiToRegisterUser(name) {
